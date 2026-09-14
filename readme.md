@@ -8,12 +8,13 @@
 </a>
 
 <br/>
-
+Linkedin : 
 <a href="https://www.linkedin.com/in/abderrahmane-sabkari/">
-  Linkedin : abderrahmane-sabkari
+  abderrahmane-sabkari
 </a>
+Gmail :
 <a href="mailto:abderrahmanesabkari@gmail.com">
-  Gmail : abderrahmanesabkari@gmail.com
+  abderrahmanesabkari@gmail.com
 </a>
 <!--<a href="YOUR_PORTFOLIO_URL">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
