@@ -9,10 +9,10 @@
 
 <br/>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/abderrahmane-sabkari">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:abderrahmanesabkari@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <!--<a href="YOUR_PORTFOLIO_URL">
