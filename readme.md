@@ -9,11 +9,11 @@
 
 <br/>
 
-<a href="www.linkedin.com/in/abderrahmane-sabkari">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/abderrahmane-sabkari/">
+  Linkedin : abderrahmane-sabkari
 </a>
 <a href="mailto:abderrahmanesabkari@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  Gmail : abderrahmanesabkari@gmail.com
 </a>
 <!--<a href="YOUR_PORTFOLIO_URL">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
