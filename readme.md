@@ -1,7 +1,13 @@
+<div align="center">
+  <a href="./README.md"><b>🇬🇧 English</b></a> &nbsp; | &nbsp; <a href="./README.fr.md"><b>🇫🇷 Français</b></a>
+</div>
+
+<br/>
+
 <!-- HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abderrahmane%20Sabkari&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Full-Stack%20Dev&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Abderrahmane%20Sabkari&descAlignY=62&descSize=25" />
 
 <a href="https://github.com/abderrahmane0402">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Master+Data+Science+%7C+ENSAM+Meknes;AI+Engineer+%26+Data+Scientist;Building+Production+ML+Systems;Software+Dev+background+%F0%9F%9A%80" alt="Typing SVG" />
@@ -165,7 +171,7 @@ real-world software before going all-in on AI — and that combo is my edge:
 
 <br/>
 
-### 🛠️ Software Engineering 
+### 🛠️ Software Engineering
 
 <table>
 <tr>
