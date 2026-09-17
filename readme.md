@@ -39,8 +39,6 @@ real-world software before going all-in on AI — and that combo is my edge:
 - 🏗️ I build them so they **actually run in production** — not just notebooks
 - 🔌 I bridge the gap between **data science and software engineering**
 
-> *A data scientist who engineers. An engineer who does data science.*
-
 ---
 
 ## 🎓 Education
@@ -68,11 +66,11 @@ real-world software before going all-in on AI — and that combo is my edge:
 
 | Domain | Tools |
 |---|---|
-| **ML & Analytics** | Python · Pandas · NumPy · Scikit-learn · XGBoost · Matplotlib · Seaborn |
+| **ML & Analytics** | Python · Pandas · NumPy · Scikit-learn · XGBoost · LightGBM |
 | **Big Data & Streaming** | Apache Kafka · PySpark Structured Streaming · PostgreSQL |
-| **AI & LLMs** | Groq · RAG Pipelines · Qdrant Vector DB · Tesseract OCR |
+| **AI Agents & LLMs** | LangGraph · LangChain · Groq · RAG · Qdrant Vector DB · Tesseract OCR |
 | **Async & Queues** | Celery · Redis |
-| **MLOps & Deploy** | Docker · FastAPI · Streamlit · GitHub Actions · Oracle Cloud (OCI) |
+| **MLOps & Deploy** | Docker · FastAPI · MLflow · GitHub Actions · Oracle Cloud (OCI) |
 
 </div>
 
@@ -93,6 +91,30 @@ real-world software before going all-in on AI — and that combo is my edge:
 ### 🧠 AI & Data Science
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+### 🧠 Autonomous Data Science Platform
+
+> **End-to-End Multi-Agent AI Pipeline** — Automate feature engineering, AutoML, XAI, and API deployment.
+
+| | |
+|---|---|
+| **AI Agents** | LangGraph · LangChain · Supervisor Orchestration |
+| **AutoML** | LightGBM · XGBoost · Optuna · Scikit-Learn |
+| **XAI** | SHAP Plots for Feature Importance |
+| **LLM Engine** | Groq (Llama 3.1) — Autonomous Pandas Code Generation |
+| **Backend** | FastAPI · PostgreSQL · MLflow |
+| **Frontend** | Next.js 15 · Tailwind CSS · Shadcn UI |
+| **Deploy** | Docker Compose · Oracle Cloud (OCI) · GitHub Actions CI/CD |
+
+<br/>
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/abderrahmane0402/Autonomous_Data_Science_Platform)
+[![Demo](https://img.shields.io/badge/Live_Demo-Platform_Dashboard-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sabkari-dev.ddns.net/Autonomo)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -143,7 +165,7 @@ real-world software before going all-in on AI — and that combo is my edge:
 
 <br/>
 
-### 🛠️ Software Engineering — The Foundation
+### 🛠️ Software Engineering 
 
 <table>
 <tr>
@@ -218,7 +240,5 @@ Reusable permission & multilingual system — i18n architecture for multi-tenant
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-
-*"The best ML model is the one that ships."*
 
 </div>
